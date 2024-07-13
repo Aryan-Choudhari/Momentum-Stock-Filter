@@ -1,7 +1,7 @@
 # Momentum Stocks Filter Web Application
 
 This project is a web application that allows users to analyze and screen stocks based on momentum strategy. It consists of a Flask backend for data processing and a simple HTML/JavaScript frontend for user interaction.
-The back-test of the proposed strategy was done and it was foud to beat the Indian benchmark Index NIFTY50 by over 400% in the past 4 years (begining Dec 2020). Feel free to ask for the code for the same via e-mail if interested. 
+The back-test of the proposed strategy was done and it was found to beat the Indian benchmark Index NIFTY50 by over 400% in the past 4 years (begining Dec 2020). Feel free to ask for the code for the same via e-mail if interested. 
 
 ## Table of Contents
 1. [Demo](#demo)
